@@ -2180,14 +2180,14 @@
 		"opt": 1,
 		"q": 100
 		},
-	"\/images\/sensores\/cal.JPG": {
+	"\/images\/sensores\/cal.jpg": {
 		"ft": 16384,
-		"iS": 40276,
+		"iS": 83965,
 		"oA": 0,
 		"oAP": "\/images\/sensores\/cal.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/images\/sensores\/celdas.jpg": {
@@ -2887,7 +2887,7 @@
 	},
 "projectAttributes": {
 	"creationDate": 532904227,
-	"displayValue": "Ready - Corporate  Business HTML5 & Bootstrap Template 1",
+	"displayValue": "Template2",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "brackets_magenta"
 	},
