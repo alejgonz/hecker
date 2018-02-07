@@ -1078,7 +1078,7 @@ header {
 }
 .project-summery .col-sm-3 i,
 .our-clients .col-sm-3 i {
-    color: #aeffb1;
+    color: rgba(78, 209, 32, 0.86);
     font-size: 65px;
 }
 .our-clients .col-sm-3 p.project-count {
