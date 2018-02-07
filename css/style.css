@@ -1055,6 +1055,12 @@ header {
     background-position: center;
     position: relative;
 }
+.our-client2s {
+    padding: 150px 0;
+
+
+    position: relative;
+}
 .project-summery::before,
 .our-clients::before {
     position: absolute;
@@ -1205,6 +1211,16 @@ header {
 .our-clients {
     padding: 125px 0;
     background: url("../../images/numeros.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    -webkit-background-size: cover;
+    background-size: cover;
+	background-attachment:fixed;
+    z-index: -1;
+}
+.our-clients2 {
+    padding: 125px 0;
+    background-color: rgb(250, 250, 250);
     background-position: center;
     background-repeat: no-repeat;
     -webkit-background-size: cover;
@@ -2079,4 +2095,8 @@ text-align: left;
 }
 .mix category-1 col-md-12 .story row .col-sm-6 h3 {
 font-family: Prompt;
+}
+
+#logos-clientes-2 {
+	margin-top: 4em;
 }

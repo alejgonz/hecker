@@ -7,7 +7,7 @@
 		"uuidString": "CB4DC968-6533-443C-89FA-EF501ACBA4B4"
 		}
 	],
-"creatorBuild": "26148",
+"creatorBuild": "26261",
 "files": {
 	"\/about.html": {
 		"cB": 0,
@@ -2887,7 +2887,7 @@
 	},
 "projectAttributes": {
 	"creationDate": 532904227,
-	"displayValue": "Template2",
+	"displayValue": "heckerweb",
 	"displayValueWasSetByUser": 0,
 	"iconImageName": "brackets_magenta"
 	},
@@ -3460,6 +3460,10 @@
 		"id-match": {
 			"active": 0,
 			"optionString": "'^[a-z]+([A-Z][a-z]+)*$', {'properties': false, 'onlyDeclarations': true}"
+			},
+		"implicit-arrow-linebreak": {
+			"active": 0,
+			"optionString": "'beside'"
 			},
 		"indent": {
 			"active": 0,
