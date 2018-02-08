@@ -2020,6 +2020,46 @@
 		"oT": 1,
 		"q": 100
 		},
+	"\/images\/montajes\/img1.jpeg": {
+		"ft": 16384,
+		"iS": 170025,
+		"oA": 0,
+		"oAP": "\/images\/montajes\/img1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/montajes\/img2.jpeg": {
+		"ft": 16384,
+		"iS": 30029,
+		"oA": 0,
+		"oAP": "\/images\/montajes\/img2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/montajes\/img3.jpeg": {
+		"ft": 16384,
+		"iS": 27497,
+		"oA": 0,
+		"oAP": "\/images\/montajes\/img3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/montajes\/img4.jpeg": {
+		"ft": 16384,
+		"iS": 270732,
+		"oA": 0,
+		"oAP": "\/images\/montajes\/img4.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/images\/mvc1.jpg": {
 		"ft": 16384,
 		"iS": 68128,
@@ -2408,6 +2448,16 @@
 		"mi": 1,
 		"oA": 0,
 		"oAP": "\/js\/bootstrap.min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/cssslidy.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/cssslidy-min.js",
 		"oF": 0,
 		"sC": 3,
 		"tS": 0
