@@ -7,7 +7,7 @@
 		"uuidString": "CB4DC968-6533-443C-89FA-EF501ACBA4B4"
 		}
 	],
-"creatorBuild": "26261",
+"creatorBuild": "26148",
 "files": {
 	"\/about.html": {
 		"cB": 0,
@@ -204,9 +204,19 @@
 		"oA": 0,
 		"oAP": "\/clientes\/logo\/codelco_andina.png",
 		"oF": 0,
+		"oIPL": 1,
+		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/clientes\/logo\/DET.jpg": {
+		"ft": 16384,
+		"iS": 16650,
+		"oA": 0,
+		"oAP": "\/clientes\/logo\/DET.jpg",
+		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
-		"oT": 1,
 		"q": 100
 		},
 	"\/clientes\/logo\/DET.png": {
@@ -217,6 +227,17 @@
 		"oF": 0,
 		"oIPL": 1,
 		"opt": 1,
+		"oT": 1,
+		"q": 100
+		},
+	"\/clientes\/logo\/escondida.png": {
+		"ft": 32768,
+		"iS": 10907,
+		"oA": 0,
+		"oAP": "\/clientes\/logo\/escondida.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -3510,10 +3531,6 @@
 		"id-match": {
 			"active": 0,
 			"optionString": "'^[a-z]+([A-Z][a-z]+)*$', {'properties': false, 'onlyDeclarations': true}"
-			},
-		"implicit-arrow-linebreak": {
-			"active": 0,
-			"optionString": "'beside'"
 			},
 		"indent": {
 			"active": 0,
