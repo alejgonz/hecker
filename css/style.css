@@ -2014,7 +2014,7 @@ p{
 .effect-ruby {
     position: relative;
     overflow: hidden;
-    background-color: #000;
+/*     background-color: #000; */
     height: 250px;
 }
 .effect-ruby img {
