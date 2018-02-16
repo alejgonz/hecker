@@ -200,12 +200,12 @@
 		},
 	"\/clientes\/logo\/codelco_andina.png": {
 		"ft": 32768,
-		"iS": 55015,
+		"iS": 6322,
 		"oA": 0,
 		"oAP": "\/clientes\/logo\/codelco_andina.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -221,12 +221,12 @@
 		},
 	"\/clientes\/logo\/DET.png": {
 		"ft": 32768,
-		"iS": 42797,
+		"iS": 6487,
 		"oA": 0,
 		"oAP": "\/clientes\/logo\/DET.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -1499,6 +1499,16 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/images\/Courier\/servicios\/mtto1.jpg": {
+		"ft": 16384,
+		"iS": 142473,
+		"oA": 0,
+		"oAP": "\/images\/Courier\/servicios\/mtto1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/images\/Courier\/sonda\/1.jpg": {
 		"ft": 16384,
 		"iS": 59546,
@@ -2269,6 +2279,16 @@
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 1,
+		"q": 100
+		},
+	"\/images\/sensores\/bannersensores.jpg": {
+		"ft": 16384,
+		"iS": 920023,
+		"oA": 0,
+		"oAP": "\/images\/sensores\/bannersensores.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
 		"q": 100
 		},
 	"\/images\/sensores\/cal.jpg": {
