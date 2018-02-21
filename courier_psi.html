@@ -185,7 +185,7 @@
                             <div class="welcome-agileinfo" style="margin-top:10px; margin-bottom:5px; font-family: Prompt">
                                 <div class="col-xs-4 col-sm-4 welcome-w3lsgrids">
                                     <div class="w3lwelcome-img effect-ruby">
-                                        <img src="images/courier/configuracion.jpg" alt=" " class="img-responsive"/>
+                                    <img src="images/Courier/configuracion.jpg" alt=" " class="img-responsive"/>
                                         <div class="agile-caption">
                                             <h3 style="font-family: Prompt">Montaje y Configuración </h3>
                                             <p>Lorem ipsum dolor sit </p>
@@ -218,38 +218,46 @@
                 <div id="story-carousel" class="owl-carousel col-sm-12">
                     <div class="story row">
                         <div class="col-sm-6">
-                            <img src="images/Courier/servicios/mtto1.jpg" alt="" class="img-responsive">
+                            <div id="slidy-container">
+                              <figure id="slidy" style="height: 200px">
+                                <img src="images/montajes/img1.jpeg" alt data-caption="Descripción imagen">
+                                <img src="images/montajes/img2.jpeg" alt data-caption="Tranquilo">
+                                <img src="images/montajes/img3.jpeg" alt data-caption="Calmado">
+                                <img src="images/montajes/img4.jpeg" alt data-caption="Nervioso">
+                            </figure>
                         </div>
-                        <div class="col-sm-6">
-                            <h3>DESCRIPCIÓN </h3>
-                            <p style="font-size: 16px; text-align: justify; color: #333;">Actividades de montaje, reposicionamiento y configuración de analizadores tipo Courier, PSI y multiplexores de manera tal que propendan a un aumento de la vida útil del equipo, mejor desempeño y mayor utilización de éstos. Se incluyen cambios en el trazado de los piping auxiliares de transporte de muestra, pulpas de rechazo y  agua industrial para lavado de cañerías.</p>
-                        </div>
+                        <!-- <img src="images/Courier/servicios/mtto1.jpg" alt="" class="img-responsive"> -->
                     </div>
-                    <div class="story row">
-                        <div class="col-sm-6">
-                            <img src="http://placehold.it/560x315" alt="" class="img-responsive">
-                        </div>
-                        <div class="col-sm-6">
-                            <h3>DESCRIPCIÓN</h3>
-                            <p style="font-size: 16px; text-align: justify; color: #333;">Programa de mantenimiento preventivo y pautas correctivas orientadas a asegurar la mayor disponibilidad operativa de los analizadores de leyes y tamaño de partícula de acuerdo a KPI establecidos de mutuo acuerdo con el cliente. <br><br>Los alcances de las actividades incluyen el mantenimiento electrónico completa del los analizadores, cajones de multiplexación, cortadores metalúrgicos, los componentes mecánicos periféricos, bombas de impulsión y transporte de muestra y rechazos.</p>
-                        </div>
+                    <div class="col-sm-6">
+                        <h3>DESCRIPCIÓN </h3>
+                        <p style="font-size: 16px; text-align: justify; color: #333;">Actividades de montaje, reposicionamiento y configuración de analizadores tipo Courier, PSI y multiplexores de manera tal que propendan a un aumento de la vida útil del equipo, mejor desempeño y mayor utilización de éstos. Se incluyen cambios en el trazado de los piping auxiliares de transporte de muestra, pulpas de rechazo y  agua industrial para lavado de cañerías.</p>
                     </div>
-                    <div class="story row">
-                        <div class="col-sm-6">
-                            <img src="http://placehold.it/560x315" alt="" class="img-responsive">
-                        </div>
-                        <div class="col-sm-6">
-                            <h3>DESCRIPCIÓN</h3>
-                            <p style="font-size: 16px; text-align: justify; color: #333;">Supervisión de la calidad de las mediciones proporcionadas por los analizadores con respecto a las muestras de referencia patrón proporcionadas por el laboratorio químico. <br><br>Ajuste permanente de los modelos de calibración que garantizan  mediciones dentro de las tolerancias establecidas para el proceso. Monitoreo de las señales vitales de los equipos: factores de normalización, temperatura de sondas, flujos característicos de muestras multiplexadas, temperatura de "otros componentes".</p>
-                        </div>
+                </div>
+                <div class="story row">
+                    <div class="col-sm-6">
+                        <img src="http://placehold.it/560x315" alt="" class="img-responsive">
+                    </div>
+                    <div class="col-sm-6">
+                        <h3>DESCRIPCIÓN</h3>
+                        <p style="font-size: 16px; text-align: justify; color: #333;">Programa de mantenimiento preventivo y pautas correctivas orientadas a asegurar la mayor disponibilidad operativa de los analizadores de leyes y tamaño de partícula de acuerdo a KPI establecidos de mutuo acuerdo con el cliente. <br><br>Los alcances de las actividades incluyen el mantenimiento electrónico completa del los analizadores, cajones de multiplexación, cortadores metalúrgicos, los componentes mecánicos periféricos, bombas de impulsión y transporte de muestra y rechazos.</p>
+                    </div>
+                </div>
+                <div class="story row">
+                    <div class="col-sm-6">
+                        <img src="http://placehold.it/560x315" alt="" class="img-responsive">
+                    </div>
+                    <div class="col-sm-6">
+                        <h3>DESCRIPCIÓN</h3>
+                        <p style="font-size: 16px; text-align: justify; color: #333;">Supervisión de la calidad de las mediciones proporcionadas por los analizadores con respecto a las muestras de referencia patrón proporcionadas por el laboratorio químico. <br><br>Ajuste permanente de los modelos de calibración que garantizan  mediciones dentro de las tolerancias establecidas para el proceso. Monitoreo de las señales vitales de los equipos: factores de normalización, temperatura de sondas, flujos característicos de muestras multiplexadas, temperatura de "otros componentes".</p>
                     </div>
                 </div>
             </div>
         </div>
-    </section>
-    
-    
-    
+    </div>
+</section>
+
+
+
     <!-- ===========================
         Footer
         =========================== -->
@@ -310,6 +318,11 @@
             d.className += " active";
         </script> 
 
+<script>
+            $(document).ready(function() {
+                $('#myCarousel').carousel({interval: 2000});
+            });
+        </script>
 
 
 
@@ -317,6 +330,10 @@
         <!-- jQuery Library -->
         <script src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
         <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.12.0.min.js"><\/script>')</script>
+
+        <!-- Google Map -->
+        <script src="https://maps.googleapis.com/maps/api/js?v=3.exp&amp;sensor=false"></script>
+        <script src="js/gmap.js"></script>
 
         <!-- Bootstrap JS -->
         <script src="js/bootstrap.min.js"></script>
@@ -326,6 +343,9 @@
 
         <!-- MixitUp JS -->
         <script src="js/jquery.mixitup.js"></script>
+
+        <!-- Lightbox JS -->
+        <script src="js/venobox.js"></script>
 
         <!-- Owl Carousel -->
         <script src="js/owl.carousel.min.js"></script>
@@ -342,5 +362,10 @@
 
         <!-- Custom JS -->
         <script src="js/custom.js"></script>
+        
+        <script src="js/cssslidy.js"></script>
+        <script> cssSlidy(); </script>
+
+        <script type="text/javascript"></script>
     </body>
     </html>

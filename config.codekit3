@@ -1323,7 +1323,7 @@
 		},
 	"\/images\/Courier\/configuracion.jpg": {
 		"ft": 16384,
-		"iS": 57099,
+		"iS": 90378,
 		"oA": 0,
 		"oAP": "\/images\/Courier\/configuracion.jpg",
 		"oF": 0,
@@ -1763,11 +1763,21 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/images\/experiencia\/caletones.jpg": {
+	"\/images\/experiencia\/caletones0.jpg": {
+		"ft": 16384,
+		"iS": 181179,
+		"oA": 0,
+		"oAP": "\/images\/experiencia\/caletones0.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/experiencia\/caletones1.jpg": {
 		"ft": 16384,
 		"iS": 553281,
 		"oA": 0,
-		"oAP": "\/images\/experiencia\/caletones.jpg",
+		"oAP": "\/images\/experiencia\/caletones1.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -1843,6 +1853,26 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/images\/experiencia\/colon3.jpg": {
+		"ft": 16384,
+		"iS": 156067,
+		"oA": 0,
+		"oAP": "\/images\/experiencia\/colon3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/experiencia\/colonsag.jpg": {
+		"ft": 16384,
+		"iS": 554429,
+		"oA": 0,
+		"oAP": "\/images\/experiencia\/colonsag.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/images\/experiencia\/dsal.jpg": {
 		"ft": 16384,
 		"iS": 41471,
@@ -1878,6 +1908,26 @@
 		"iS": 84844,
 		"oA": 0,
 		"oAP": "\/images\/experiencia\/pag10-540x350bronces.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/experiencia\/pHredox.jpg": {
+		"ft": 16384,
+		"iS": 171159,
+		"oA": 0,
+		"oAP": "\/images\/experiencia\/pHredox.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/experiencia\/sagcolon.jpg": {
+		"ft": 16384,
+		"iS": 225877,
+		"oA": 0,
+		"oAP": "\/images\/experiencia\/sagcolon.jpg",
 		"oF": 0,
 		"oIPL": 0,
 		"opt": 0,
@@ -2338,7 +2388,7 @@
 		"oAP": "\/images\/sensores\/galeria\/transmisores.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/images\/sensores\/galeria\/wise.jpg": {
@@ -2351,6 +2401,47 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/images\/sensores\/quimica\/0.jpg": {
+		"ft": 16384,
+		"iS": 159547,
+		"oA": 0,
+		"oAP": "\/images\/sensores\/quimica\/0.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/images\/sensores\/quimica\/1.jpg": {
+		"ft": 16384,
+		"iS": 193015,
+		"oA": 0,
+		"oAP": "\/images\/sensores\/quimica\/1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 1,
+		"q": 100
+		},
+	"\/images\/sensores\/quimica\/1.png": {
+		"ft": 32768,
+		"iS": 553569,
+		"oA": 0,
+		"oAP": "\/images\/sensores\/quimica\/1.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"\/images\/sensores\/quimica\/2.jpg": {
+		"ft": 16384,
+		"iS": 241833,
+		"oA": 0,
+		"oAP": "\/images\/sensores\/quimica\/2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/images\/sensores\/Sb.JPG": {
 		"ft": 16384,
 		"iS": 13203,
@@ -2358,7 +2449,7 @@
 		"oAP": "\/images\/sensores\/Sb.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 0,
+		"opt": 1,
 		"q": 100
 		},
 	"\/images\/sensores\/tableros.jpg": {

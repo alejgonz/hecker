@@ -778,7 +778,7 @@ header {
    =========================
    ================================================== */
 #portfolio-container .mix { display: none }
-.latest-work { padding: 50px 0 }
+.latest-work { padding: 25px 0 }
 .latest-work .portfolio-work .controls {
     text-align: center;
     margin-bottom: 40px;
@@ -2014,7 +2014,7 @@ p{
 .effect-ruby {
     position: relative;
     overflow: hidden;
-/*     background-color: #000; */
+    background-color: #000;
     height: 250px;
 }
 .effect-ruby img {
@@ -2022,7 +2022,7 @@ p{
     display: block;
     min-height: 100%;
     max-width: 100%;
-    opacity: 0.8;
+    opacity: 0.95;
 }
 .effect-ruby .agile-caption {
     padding: 2em;
@@ -2042,7 +2042,7 @@ p{
     transform: scale(1.15);
 }
 .effect-ruby:hover img {
-    opacity: 0.5;
+    opacity: 0.6;
     -webkit-transform: scale(1);
     transform: scale(1);
 }
