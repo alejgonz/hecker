@@ -103,12 +103,12 @@
 		},
 	"\/clientes\/centinelaAMSA.png": {
 		"ft": 32768,
-		"iS": 95463,
+		"iS": 26116,
 		"oA": 0,
 		"oAP": "\/clientes\/centinelaAMSA.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -157,23 +157,23 @@
 		},
 	"\/clientes\/logo\/angloamerican.png": {
 		"ft": 32768,
-		"iS": 9485,
+		"iS": 4776,
 		"oA": 0,
 		"oAP": "\/clientes\/logo\/angloamerican.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
 	"\/clientes\/logo\/caserones.png": {
 		"ft": 32768,
-		"iS": 15031,
+		"iS": 5995,
 		"oA": 0,
 		"oAP": "\/clientes\/logo\/caserones.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -265,12 +265,12 @@
 		},
 	"\/clientes\/logo\/mvc.png": {
 		"ft": 32768,
-		"iS": 4521,
+		"iS": 8432,
 		"oA": 0,
 		"oAP": "\/clientes\/logo\/mvc.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -678,7 +678,7 @@
 		},
 	"\/documentation\/Fotos pagina\/Courier\/cabezal inferior micrometro psi300 1 (1).jpg": {
 		"ft": 16384,
-		"iS": 0,
+		"iS": 1327641,
 		"oA": 0,
 		"oAP": "\/documentation\/Fotos pagina\/Courier\/cabezal inferior micrometro psi300 1 (1).jpg",
 		"oF": 0,
@@ -728,7 +728,7 @@
 		},
 	"\/documentation\/Fotos pagina\/Courier\/Celda medicion 5iSL 1.jpg": {
 		"ft": 16384,
-		"iS": 0,
+		"iS": 4818883,
 		"oA": 0,
 		"oAP": "\/documentation\/Fotos pagina\/Courier\/Celda medicion 5iSL 1.jpg",
 		"oF": 0,
@@ -748,7 +748,7 @@
 		},
 	"\/documentation\/Fotos pagina\/Courier\/conjunto motor psi 300.jpg": {
 		"ft": 16384,
-		"iS": 0,
+		"iS": 1884603,
 		"oA": 0,
 		"oAP": "\/documentation\/Fotos pagina\/Courier\/conjunto motor psi 300.jpg",
 		"oF": 0,
@@ -1017,6 +1017,16 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/images\/30px.jpg": {
+		"ft": 16384,
+		"iS": 156944,
+		"oA": 0,
+		"oAP": "\/images\/30px.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/images\/bannerexperiencia.jpg": {
 		"ft": 16384,
 		"iS": 452051,
@@ -1131,14 +1141,14 @@
 		"opt": 0,
 		"q": 100
 		},
-	"\/images\/Contact-us.jpg": {
+	"\/images\/contact.jpg": {
 		"ft": 16384,
-		"iS": 93968,
+		"iS": 303193,
 		"oA": 0,
-		"oAP": "\/images\/Contact-us.jpg",
+		"oAP": "\/images\/contact.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/images\/contact3.jpg": {
@@ -1221,6 +1231,16 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/images\/Courier\/30xp.jpg": {
+		"ft": 16384,
+		"iS": 150107,
+		"oA": 0,
+		"oAP": "\/images\/Courier\/30xp.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/images\/Courier\/8.jpg": {
 		"ft": 16384,
 		"iS": 1791539,
@@ -1283,7 +1303,7 @@
 		},
 	"\/images\/Courier\/canvas.jpg": {
 		"ft": 16384,
-		"iS": 1048576,
+		"iS": 1722986,
 		"oA": 0,
 		"oAP": "\/images\/Courier\/canvas.jpg",
 		"oF": 0,
@@ -1439,6 +1459,86 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/images\/Courier\/montajes\/img1.jpeg": {
+		"ft": 16384,
+		"iS": 170025,
+		"oA": 0,
+		"oAP": "\/images\/Courier\/montajes\/img1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/Courier\/montajes\/img1.jpg": {
+		"ft": 16384,
+		"iS": 121105,
+		"oA": 0,
+		"oAP": "\/images\/Courier\/montajes\/img1.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/Courier\/montajes\/img2.jpeg": {
+		"ft": 16384,
+		"iS": 30029,
+		"oA": 0,
+		"oAP": "\/images\/Courier\/montajes\/img2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/Courier\/montajes\/img2.jpg": {
+		"ft": 16384,
+		"iS": 146165,
+		"oA": 0,
+		"oAP": "\/images\/Courier\/montajes\/img2.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/Courier\/montajes\/img3.jpeg": {
+		"ft": 16384,
+		"iS": 27497,
+		"oA": 0,
+		"oAP": "\/images\/Courier\/montajes\/img3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/Courier\/montajes\/img3.jpg": {
+		"ft": 16384,
+		"iS": 119928,
+		"oA": 0,
+		"oAP": "\/images\/Courier\/montajes\/img3.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/Courier\/montajes\/img4.jpeg": {
+		"ft": 16384,
+		"iS": 270732,
+		"oA": 0,
+		"oAP": "\/images\/Courier\/montajes\/img4.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
+	"\/images\/Courier\/montajes\/img4.jpg": {
+		"ft": 16384,
+		"iS": 133413,
+		"oA": 0,
+		"oAP": "\/images\/Courier\/montajes\/img4.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/images\/Courier\/outocal.jpg": {
 		"ft": 16384,
 		"iS": 52885,
@@ -1561,7 +1661,7 @@
 		},
 	"\/images\/Courier\/sonda\/20170625_102527.jpg": {
 		"ft": 16384,
-		"iS": 0,
+		"iS": 3820423,
 		"oA": 0,
 		"oAP": "\/images\/Courier\/sonda\/20170625_102527.jpg",
 		"oF": 0,
@@ -1661,7 +1761,7 @@
 		},
 	"\/images\/Courier\/sonda\/7a.jpg": {
 		"ft": 16384,
-		"iS": 0,
+		"iS": 5312699,
 		"oA": 0,
 		"oAP": "\/images\/Courier\/sonda\/7a.jpg",
 		"oF": 0,
@@ -2131,46 +2231,6 @@
 		"oT": 1,
 		"q": 100
 		},
-	"\/images\/montajes\/img1.jpeg": {
-		"ft": 16384,
-		"iS": 170025,
-		"oA": 0,
-		"oAP": "\/images\/montajes\/img1.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/images\/montajes\/img2.jpeg": {
-		"ft": 16384,
-		"iS": 30029,
-		"oA": 0,
-		"oAP": "\/images\/montajes\/img2.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/images\/montajes\/img3.jpeg": {
-		"ft": 16384,
-		"iS": 27497,
-		"oA": 0,
-		"oAP": "\/images\/montajes\/img3.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
-	"\/images\/montajes\/img4.jpeg": {
-		"ft": 16384,
-		"iS": 270732,
-		"oA": 0,
-		"oAP": "\/images\/montajes\/img4.jpg",
-		"oF": 0,
-		"oIPL": 0,
-		"opt": 0,
-		"q": 100
-		},
 	"\/images\/mvc1.jpg": {
 		"ft": 16384,
 		"iS": 68128,
@@ -2223,7 +2283,7 @@
 		},
 	"\/images\/numeros.jpg": {
 		"ft": 16384,
-		"iS": 0,
+		"iS": 50709,
 		"oA": 0,
 		"oAP": "\/images\/numeros.jpg",
 		"oF": 0,
@@ -2264,12 +2324,12 @@
 		},
 	"\/images\/patentebi.png": {
 		"ft": 32768,
-		"iS": 245249,
+		"iS": 76705,
 		"oA": 0,
 		"oAP": "\/images\/patentebi.png",
 		"oF": 0,
-		"oIPL": 1,
-		"opt": 1,
+		"oIPL": 0,
+		"opt": 0,
 		"oT": 1,
 		"q": 100
 		},
@@ -2295,12 +2355,12 @@
 		},
 	"\/images\/portfolio3.jpg": {
 		"ft": 16384,
-		"iS": 311801,
+		"iS": 278015,
 		"oA": 0,
 		"oAP": "\/images\/portfolio3.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/images\/portfolio4.jpg": {
@@ -2323,12 +2383,12 @@
 		},
 	"\/images\/psi.jpg": {
 		"ft": 16384,
-		"iS": 23926,
+		"iS": 35210,
 		"oA": 0,
 		"oAP": "\/images\/psi.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/images\/sensores\/bannersensores.jpg": {
@@ -2371,6 +2431,16 @@
 		"opt": 0,
 		"q": 100
 		},
+	"\/images\/sensores\/ecsb.jpg": {
+		"ft": 16384,
+		"iS": 19288,
+		"oA": 0,
+		"oAP": "\/images\/sensores\/ecsb.jpg",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"q": 100
+		},
 	"\/images\/sensores\/electrodoSB.jpg": {
 		"ft": 16384,
 		"iS": 63621,
@@ -2383,12 +2453,12 @@
 		},
 	"\/images\/sensores\/galeria\/transmisores.jpg": {
 		"ft": 16384,
-		"iS": 73264,
+		"iS": 71423,
 		"oA": 0,
 		"oAP": "\/images\/sensores\/galeria\/transmisores.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/images\/sensores\/galeria\/wise.jpg": {
@@ -2403,22 +2473,22 @@
 		},
 	"\/images\/sensores\/quimica\/0.jpg": {
 		"ft": 16384,
-		"iS": 159547,
+		"iS": 189238,
 		"oA": 0,
 		"oAP": "\/images\/sensores\/quimica\/0.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/images\/sensores\/quimica\/1.jpg": {
 		"ft": 16384,
-		"iS": 193015,
+		"iS": 225835,
 		"oA": 0,
 		"oAP": "\/images\/sensores\/quimica\/1.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/images\/sensores\/quimica\/1.png": {
@@ -2444,12 +2514,12 @@
 		},
 	"\/images\/sensores\/Sb.JPG": {
 		"ft": 16384,
-		"iS": 13203,
+		"iS": 5405,
 		"oA": 0,
 		"oAP": "\/images\/sensores\/Sb.jpg",
 		"oF": 0,
 		"oIPL": 0,
-		"opt": 1,
+		"opt": 0,
 		"q": 100
 		},
 	"\/images\/sensores\/tableros.jpg": {
@@ -2554,7 +2624,7 @@
 		},
 	"\/images\/stock-photo-shot-of-two-cheerful-male-workers-in-hardhat-and-protective-uniform-shaking-hands-while-working-at-670846063.jpg": {
 		"ft": 16384,
-		"iS": 0,
+		"iS": 53636,
 		"oA": 0,
 		"oAP": "\/images\/stock-photo-shot-of-two-cheerful-male-workers-in-hardhat-and-protective-uniform-shaking-hands-while-working-at-670846063.jpg",
 		"oF": 0,
@@ -2564,7 +2634,7 @@
 		},
 	"\/images\/stock-photo-two-woman-s-open-hands-making-a-protection-gesture-isolated-on-green-background-family-life-230116186.jpg": {
 		"ft": 16384,
-		"iS": 0,
+		"iS": 565441,
 		"oA": 0,
 		"oAP": "\/images\/stock-photo-two-woman-s-open-hands-making-a-protection-gesture-isolated-on-green-background-family-life-230116186.jpg",
 		"oF": 0,
@@ -2574,7 +2644,7 @@
 		},
 	"\/images\/supervisor-planta-concentradora.png": {
 		"ft": 32768,
-		"iS": 0,
+		"iS": 472792,
 		"oA": 0,
 		"oAP": "\/images\/supervisor-planta-concentradora.png",
 		"oF": 0,
