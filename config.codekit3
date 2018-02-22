@@ -1233,20 +1233,12 @@
 		},
 	"\/images\/Courier\/30xp.jpg": {
 		"ft": 16384,
-<<<<<<< HEAD
 		"iS": 150107,
-=======
-		"iS": 156944,
->>>>>>> ab1af0218b09d25b2c5915873aae71fe476a3289
 		"oA": 0,
 		"oAP": "\/images\/Courier\/30xp.jpg",
 		"oF": 0,
 		"oIPL": 0,
-<<<<<<< HEAD
 		"opt": 0,
-=======
-		"opt": 1,
->>>>>>> ab1af0218b09d25b2c5915873aae71fe476a3289
 		"q": 100
 		},
 	"\/images\/Courier\/8.jpg": {
@@ -2806,189 +2798,189 @@
 		"cB": 0,
 		"ft": 2048,
 		"oA": 0,
-		"oAP": "\/about.html",
+		"oAP": "\/kit\/about.html",
 		"oF": 0
 		},
 	"\/kit\/blog-full-width.kit": {
 		"cB": 0,
 		"ft": 2048,
 		"oA": 0,
-		"oAP": "\/blog-full-width.html",
+		"oAP": "\/kit\/blog-full-width.html",
 		"oF": 0
 		},
 	"\/kit\/blog-left-sidebar.kit": {
 		"cB": 0,
 		"ft": 2048,
 		"oA": 0,
-		"oAP": "\/blog-left-sidebar.html",
+		"oAP": "\/kit\/blog-left-sidebar.html",
 		"oF": 0
 		},
 	"\/kit\/blog.kit": {
 		"cB": 0,
 		"ft": 2048,
 		"oA": 0,
-		"oAP": "\/blog.html",
+		"oAP": "\/kit\/blog.html",
 		"oF": 0
 		},
 	"\/kit\/cabecera.kit": {
 		"cB": 0,
 		"ft": 2048,
 		"oA": 1,
-		"oAP": "\/cabecera.html",
+		"oAP": "\/kit\/cabecera.html",
 		"oF": 0
 		},
 	"\/kit\/contact.kit": {
 		"cB": 0,
 		"ft": 2048,
 		"oA": 0,
-		"oAP": "\/contact.html",
+		"oAP": "\/kit\/contact.html",
 		"oF": 0
 		},
 	"\/kit\/courier_psi.kit": {
 		"cB": 0,
 		"ft": 2048,
 		"oA": 0,
-		"oAP": "\/courier_psi.html",
+		"oAP": "\/kit\/courier_psi.html",
 		"oF": 0
 		},
 	"\/kit\/courierpsi.kit": {
 		"cB": 0,
 		"ft": 2048,
 		"oA": 0,
-		"oAP": "\/courierpsi.html",
+		"oAP": "\/kit\/courierpsi.html",
 		"oF": 0
 		},
 	"\/kit\/experiencia.kit": {
 		"cB": 0,
 		"ft": 2048,
 		"oA": 0,
-		"oAP": "\/experiencia.html",
+		"oAP": "\/kit\/experiencia.html",
 		"oF": 0
 		},
 	"\/kit\/footer.kit": {
 		"cB": 0,
 		"ft": 2048,
 		"oA": 1,
-		"oAP": "\/footer.html",
+		"oAP": "\/kit\/footer.html",
 		"oF": 0
 		},
 	"\/kit\/historia.kit": {
 		"cB": 0,
 		"ft": 2048,
 		"oA": 0,
-		"oAP": "\/historia.html",
+		"oAP": "\/kit\/historia.html",
 		"oF": 0
 		},
 	"\/kit\/index.kit": {
 		"cB": 0,
 		"ft": 2048,
 		"oA": 0,
-		"oAP": "\/index.html",
+		"oAP": "\/kit\/index.html",
 		"oF": 0
 		},
 	"\/kit\/mision&vision.kit": {
 		"cB": 0,
 		"ft": 2048,
 		"oA": 0,
-		"oAP": "\/mision&vision.html",
+		"oAP": "\/kit\/mision&vision.html",
 		"oF": 0
 		},
 	"\/kit\/mision_vision.kit": {
 		"cB": 0,
 		"ft": 2048,
 		"oA": 0,
-		"oAP": "\/mision_vision.html",
+		"oAP": "\/kit\/mision_vision.html",
 		"oF": 0
 		},
 	"\/kit\/montaje.kit": {
 		"cB": 0,
 		"ft": 2048,
 		"oA": 0,
-		"oAP": "\/montaje.html",
+		"oAP": "\/kit\/montaje.html",
 		"oF": 0
 		},
 	"\/kit\/navbar.kit": {
 		"cB": 0,
 		"ft": 2048,
 		"oA": 1,
-		"oAP": "\/navbar.html",
+		"oAP": "\/kit\/navbar.html",
 		"oF": 0
 		},
 	"\/kit\/nosotros.kit": {
 		"cB": 0,
 		"ft": 2048,
 		"oA": 0,
-		"oAP": "\/nosotros.html",
+		"oAP": "\/kit\/nosotros.html",
 		"oF": 0
 		},
 	"\/kit\/overhaulin.kit": {
 		"cB": 0,
 		"ft": 2048,
 		"oA": 0,
-		"oAP": "\/overhaulin.html",
+		"oAP": "\/kit\/overhaulin.html",
 		"oF": 0
 		},
 	"\/kit\/page-full-width.kit": {
 		"cB": 0,
 		"ft": 2048,
 		"oA": 0,
-		"oAP": "\/page-full-width.html",
+		"oAP": "\/kit\/page-full-width.html",
 		"oF": 0
 		},
 	"\/kit\/page.kit": {
 		"cB": 0,
 		"ft": 2048,
 		"oA": 0,
-		"oAP": "\/page.html",
+		"oAP": "\/kit\/page.html",
 		"oF": 0
 		},
 	"\/kit\/patenteehph01.kit": {
 		"cB": 0,
 		"ft": 2048,
 		"oA": 0,
-		"oAP": "\/patenteehph01.html",
+		"oAP": "\/kit\/patenteehph01.html",
 		"oF": 0
 		},
 	"\/kit\/politicaHSEC.kit": {
 		"cB": 0,
 		"ft": 2048,
 		"oA": 0,
-		"oAP": "\/politicaHSEC.html",
+		"oAP": "\/kit\/politicaHSEC.html",
 		"oF": 0
 		},
 	"\/kit\/portafolio.kit": {
 		"cB": 0,
 		"ft": 2048,
 		"oA": 0,
-		"oAP": "\/portafolio.html",
+		"oAP": "\/kit\/portafolio.html",
 		"oF": 0
 		},
 	"\/kit\/portfolio.kit": {
 		"cB": 0,
 		"ft": 2048,
 		"oA": 0,
-		"oAP": "\/portfolio.html",
+		"oAP": "\/kit\/portfolio.html",
 		"oF": 0
 		},
 	"\/kit\/post.kit": {
 		"cB": 0,
 		"ft": 2048,
 		"oA": 0,
-		"oAP": "\/post.html",
+		"oAP": "\/kit\/post.html",
 		"oF": 0
 		},
 	"\/kit\/sensores.kit": {
 		"cB": 0,
 		"ft": 2048,
 		"oA": 0,
-		"oAP": "\/sensores.html",
+		"oAP": "\/kit\/sensores.html",
 		"oF": 0
 		},
 	"\/kit\/team.kit": {
 		"cB": 0,
 		"ft": 2048,
 		"oA": 0,
-		"oAP": "\/team.html",
+		"oAP": "\/kit\/team.html",
 		"oF": 0
 		},
 	"\/mision&vision.html": {
@@ -3133,7 +3125,7 @@
 		"cB": 0,
 		"ft": 2048,
 		"oA": 0,
-		"oAP": "\/cabecera.html",
+		"oAP": "\/sass\/cabecera.html",
 		"oF": 0
 		},
 	"\/sass\/main.scss": {
@@ -5007,7 +4999,7 @@
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "kit",
 		"autoOutputPathReplace2": "html",
-		"autoOutputPathStyle": 1,
+		"autoOutputPathStyle": 0,
 		"shouldRunCacheBuster": 0
 		},
 	"languageDefaultsLESS": {
