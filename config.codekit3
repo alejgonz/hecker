@@ -1233,12 +1233,20 @@
 		},
 	"\/images\/Courier\/30xp.jpg": {
 		"ft": 16384,
+<<<<<<< HEAD
 		"iS": 150107,
+=======
+		"iS": 156944,
+>>>>>>> ab1af0218b09d25b2c5915873aae71fe476a3289
 		"oA": 0,
 		"oAP": "\/images\/Courier\/30xp.jpg",
 		"oF": 0,
 		"oIPL": 0,
+<<<<<<< HEAD
 		"opt": 0,
+=======
+		"opt": 1,
+>>>>>>> ab1af0218b09d25b2c5915873aae71fe476a3289
 		"q": 100
 		},
 	"\/images\/Courier\/8.jpg": {
