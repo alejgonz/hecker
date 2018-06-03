@@ -33,7 +33,12 @@
     <link rel="stylesheet" href="css/normalize.css">
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/responsive.css">
-
+<style>
+.breadcrumb:hover {
+    color: #9fdcff;
+}
+/* style="{:hover {color: yellow}} */
+</style>
 </head>
 <body>
 
@@ -101,97 +106,114 @@
         =========================== -->
         <section class="intro pages-header">
 
-             
-                    <div class="main-nav">
-                        <nav class="navbar" id="main-navbar">
-                            <div class="container">
-                                <div class="row">
-                                    <div class="col-lg-12">
-                                        <div class="navbar-header">
-                                            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse">
-                                                <span class="icon-bar"></span>
-                                                <span class="icon-bar"></span>
-                                                <span class="icon-bar"></span>
-                                                <span class="icon-bar"></span>
-                                                <span class="icon-bar"></span>
-                                            </button>
-                                            <a class="navbar-brand" href="index.html"><img src="images/brand-hecker1.png" alt=""></a>
-                                        </div>
-                                        <div class="collapse navbar-collapse nopadding" id="navbar-collapse">
-                                            <ul class="nav navbar-nav main-menu">
-                                              <li id="inicio" class=""><a href="index.html">Inicio</a></li>
-                                              <li id="nosotros" class="clearfix"><a href="#">Nosotros</a>
-                                                  <ul class="dropdown-menu">
-                                                      <li><a href="historia.html">Historia </a></li>
-                                                      <li><a href="mision&vision.html">Misión & Visión</a></li>
-                                                      <li><a href="politicaHSEC.html">Políticas </a></li>
-                                                  </ul>
-                                                </li>
-                                              <li id="servicios" class="clearfix"><a href="#">Servicios</a>
-                                                  <ul class="dropdown-menu">
-                                                      <li><a href="courier_psi.html">Analizadores de leyes en línea</a></li>
-                                                      <li><a href="sensores.html">Sensores analíticos</a></li>
-                                                      <li><a href="soporte_en_línea.html">Consultoría metalúrgica</a></li>
-                                                      <li><a href="#">Soporte en línea</a>
+
+            <div class="main-nav">
+              <nav class="navbar" id="main-navbar">
+                <div class="container">
+                  <div class="row">
+                    <div class="col-lg-12">
+                      <div class="navbar-header">
+                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse">
+                          <span class="icon-bar"></span>
+                          <span class="icon-bar"></span>
+                          <span class="icon-bar"></span>
+                          <span class="icon-bar"></span>
+                          <span class="icon-bar"></span>
+                        </button>
+                        <a class="navbar-brand" href="index.html"><img src="images/brand-hecker1.png" alt=""></a>
+                      </div>
+                      <div class="collapse navbar-collapse nopadding" id="navbar-collapse">
+                        <ul class="nav navbar-nav main-menu">
+                          <li id="inicio" class=""><a href="index.html">Inicio</a></li>
+                          <li id="nosotros" class="clearfix"><a href="#">Nosotros</a>
+                            <ul class="dropdown-menu">
+                              <li><a href="historia.html">Historia </a></li>
+                              <li><a href="mision&vision.html">Misión & Visión</a></li>
+                              <li><a href="politicaHSEC.html">Políticas </a></li>
+                            </ul>
+                          </li>
+                          <li id="servicios" class="clearfix"><a href="#">Servicios</a>
+                            <ul class="dropdown-menu">
+                              <li><a href="courier_psi.html">Analizadores de leyes en línea</a></li>
+                              <li><a href="sensores.html">Sensores analíticos</a></li>
+                              <li><a href="plataforma.html">Consultoría metalúrgica</a></li>
+                              <li><a href="educacion.html">Entrenamiento a Operaciones</a>
                                     <!-- <ul class="">
                                     <li><a href="#">Sub Menu 1</a></li>
                                     <li><a href="#">Sub Menu 2</a></li>
                                     <li><a href="#">Sub Menu 3</a></li>
                                   </ul> -->
                                 </li>
-                                                </ul>
-                                              </li>
-                                              <li id="experiencia" class="clearfix"><a href="#">Experiencia</a>
-                                                  <ul class="dropdown-menu">
-                                                      <li><a href="portfolio.html">Servicios </a></li>
-                                                      <li><a href="montaje.html">Montajes</a></li>
-            
-                                                  </ul>
-                                                </li>
-                                              <li id="patentes" class="clearfix"><a href="">Patentes</a>
-                                                  <ul class="dropdown-menu">
-                                                      <li><a href="blog-full-width.html">Sensor Metálico</a></li>
-                                                      <li><a href="blog-left-sidebar.html">Sensor EhpH01</a></li>
-                                                      <li><a href="post.html">Sensor EhRx01</a></li>
-                                                  </ul>
-                                              </li>
-                                              <li id="contacto" class=""><a href="contact.html">Contacto</a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div><!-- end container -->
-                        </nav><!-- end navbar -->
-                    </div><!-- Main Menu -->
-            
-            
-                    
-                
+                              </ul>
+                            </li>
+                            <li id="experiencia" class="clearfix"><a href="#">Experiencia</a>
+                              <ul class="dropdown-menu">
+                                <li><a href="#">Servicios</a>
+                                  <ul class="">
+                                    <li><a href="portfolio.html">Mantenimiento Industrial</a></li>
+                                    <li><a href="montaje.html">Montaje</a></li>
+                                  </ul>
+                                </li>
+                                <li><a href="asesoria.html">Consultoría</a>
+                                </li>
+
+                              </ul>
+                            </li>
+                            <li id="patentes" class="clearfix"><a href="">Patentes</a>
+                              <ul class="dropdown-menu">
+                                <li><a href="blog-full-width.html">Sensor Metálico</a></li>
+                                <li><a href="blog-left-sidebar.html">Sensor EhpH01</a></li>
+                                <li><a href="post.html">Sensor EhRx01</a></li>
+                              </ul>
+                            </li>
+                            <li id="contacto" class=""><a href="contact.html">Contacto</a></li>
+                          </ul>
+                        </div>
+                      </div>
+                    </div>
+                  </div><!-- end container -->
+                </nav><!-- end navbar -->
+              </div><!-- Main Menu -->
+
+
+
+
 
             <div class="page-header-image">
              <div class="container">
                  <div class="row">
                      <div class="col-md-12">
 	                     <h2 class="page-header-title">Políticas de la empresa</h2>
-	                                              <p>El marco conductual de nuestros trabajadores con sus clientes se encuentra acuñado por nuestras politicas de empresa y una marcada cultura organizacional orientada al servicio. </p>
+                       <p style="
+color: white;
+">El marco conductual de nuestros trabajadores con los clientes se encuentra acuñado por nuestras políticas de empresa y una marcada cultura organizacional orientada al servicio. </p>
 	                                              <br>
                            <ol class="breadcrumb">
                             <li>
-                               <a href="historia.html">Historia</a>
+                               <a href="politicaHSEC.html"
+                               onMouseOver="this.style.color='#9fdcff'"
+                               onMouseOut="this.style.color='#FFF'"
+                               >Política de Salud y Seguridad Ocupacional</a>
                            </li>
                            <li>
-                               <a href="mision&vision.html">Misión & Visión</a>
+                               <a href="politicaHSEC1.html" onMouseOver="this.style.color='#9fdcff'"
+                               onMouseOut="this.style.color='#FFF'" >Política Ambiental</a>
                            </li>
                            <li>
-                           		<a href="politicaHSEC.html">Políticas</a>
-                           </li>    
+                           		<a href="politicaHSEC2.html" onMouseOver="this.style.color='#9fdcff'"
+                              onMouseOut="this.style.color='#FFF'">Política de Calidad</a>
+                           </li>
+                           <li>
+                           		<a href="politicaHSEC3.html" onMouseOver="this.style.color='#9fdcff'"
+                              onMouseOut="this.style.color='#FFF'">Política de Alcohol y Drogas</a>
+                           </li>
                            </ol>
                     </div>
                 </div>
             </div>
         </div>
     </section><!-- End Intro -->
-    
+
 <!--     <section class="our-story">
         <div class="container">
             <div class="row">
@@ -235,7 +257,7 @@
                                            <li>Mejorar continuamente el sistema de gestión, basado en el aprendizaje y el trabajo en equipo.</li>
                                        </ul>
                                    </div>
-                               </ul>  
+                               </ul>
 
                            </div>
                        </div>
@@ -263,7 +285,7 @@
                             <li>Capacitar continuamente, fomentando la participación de los trabajadores en el cuidado del medio ambiente, e informar a los clientes de la gestión ambiental de Hecker Electroquímica Industrial S. A.</li><br>
                         </ul>
                         Hecker S.A., se compromete a difundir esta política en todos los niveles, y a suministrar los recursos necesarios para cumplir con la misma.
-                    </p>                                    
+                    </p>
                 </div>
             </div>
         </div>
@@ -306,7 +328,7 @@
             <li>El consumidor de sustancias consideradas por la ley como licitas de carácter terapéutico debidamente comprobado, deberá informar este hecho a su jefatura directa.</li><br>
             <li>La empresa promoverá el estilo de vida saludable que aporten a evitar el consumo de alcohol y drogas en las personas de la organización.</li><br>
             <li>La Empresa no desea que nuestros trabajadores caigan en estos vicios, por lo que orientará sus esfuerzos en difundir medidas de prevención tendientes a disminuir la probabilidad de contagio; creando conciencia del grave riesgo que significa para la salud del trabajador y la pérdida de calidad de vida del y de su familia.</li><br>
-        </ul>       
+        </ul>
         Hecker S.A., se compromete a difundir esta política en todos los niveles, y a suministrar los recursos necesarios para cumplir con la misma.
     </p>
 </div>
@@ -318,58 +340,64 @@
 
 
 
-    <!-- ===========================
-        Footer
-        =========================== -->
+<!-- ============================
+    Footer
+    ============================ -->
 
-         <footer>
+    <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-md-6 col-sm-6">
+                    <div class="footer-widget">
+                        <h2 class="widget-title">La Empresa</h2>
+                        <div class="widget-content about-us-widget">
+                          <p style="
+color: #d6d6d6;text-align:left;
+">Hecker Electroquímica Industrial S.A. es una empresa de
+                                innovación tecnológica y prestadora de servicios especializados en el área de mantenimiento industrial de la minería chilena</p>
+                                <ul class="list-unstyled">
+                                    <li><i class="fa fa-envelope"></i> empresa@hecker.cl</li>
+                                    <li class="clearfix"><i class="fa fa-phone"></i> <p style="
+color: #d6d6d6;
+">F: 72 223 90 30</p></li>
+                                    <li><i class="fa fa-map-marker"></i> Hector Zamorano 1418, Rancagua</li>
+                                </ul>
+                            </div>
+                        </div>
+                    </div><!-- End Widget -->
+
+                    <div class="col-md-6 col-sm-6">
+                        <div class="footer-widget">
+                            <h2 class="widget-title">CONTACTO</h2>
+                            <div class="widget-content subscribe">
+                              <p style="
+color: #d6d6d6;
+">Ingrese su email para solicitar mas información</p>
+                                <form action="#">
+                                    <input type="email" placeholder="Email">
+                                    <button type="submit">Subscribe</button>
+                                </form>
+                            </div><!-- End Get In Touch -->
+
+
+                        </div>
+                    </div><!-- End Widget -->
+                </div>
+            </div><!-- End Container -->
+
+            <div class="footer-bottom">
                 <div class="container">
                     <div class="row">
-                        <div class="col-md-6 col-sm-6">
-                            <div class="footer-widget">
-                                <h2 class="widget-title">La Empresa</h2>
-                                <div class="widget-content about-us-widget">
-                                    <p>Hecker Electroquímica Industrial S.A. es una empresa de
-                                        innovación tecnológica y prestadora de servicios especializados en el área de mantenimiento industrial de la minería chilena</p>
-                                    <ul class="list-unstyled">
-                                        <li><i class="fa fa-envelope"></i> empresa@hecker.cl</li>
-                                        <li class="clearfix"><i class="fa fa-phone"></i> <p>F: 72 223 90 30</p></li>
-                                        <li><i class="fa fa-map-marker"></i> Hector Zamorano 1418, Rancagua</li>
-                                    </ul>
-                                </div>
-                            </div>
-                        </div><!-- End Widget -->
-                        
-                        <div class="col-md-6 col-sm-6">
-                            <div class="footer-widget">
-                                <h2 class="widget-title">CONTACTO</h2>
-                                <div class="widget-content subscribe">
-                                    <p>Ingrese su email para solicitar mas información</p>
-                                    <form action="#">
-                                        <input type="email" placeholder="Email">
-                                        <button type="submit">Subscribe</button>
-                                    </form>
-                                </div><!-- End Get In Touch -->
-                                
-                                
-                            </div>
-                        </div><!-- End Widget -->
-                    </div>
-                </div><!-- End Container -->
-                
-                <div class="footer-bottom">
-                    <div class="container">
-                        <div class="row">
-                            <div class="col-xs-8 copyright">
-                                <p style="text-align: right;"> HECKER ELECTROQUÍMICA INDUSTRIAL S.A. - 2018 </p>
-                            </div>
-                            <div class="col-xs-4 scrool-to-top">
-                                <p><a href="#scrolltop"><i class="fa fa-arrow-up"></i></a></p>
-                            </div>
+                        <div class="col-xs-8 copyright">
+                            <p style="text-align: right;"> HECKER ELECTROQUÍMICA INDUSTRIAL S.A. - 2018 </p>
+                        </div>
+                        <div class="col-xs-4 scrool-to-top">
+                            <p><a href="#scrolltop"><i class="fa fa-arrow-up"></i></a></p>
                         </div>
                     </div>
                 </div>
-            </footer><!-- End Footer -->
+            </div>
+        </footer><!-- End Footer -->
 
 
 

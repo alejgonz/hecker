@@ -7,13 +7,20 @@
 		"uuidString": "CB4DC968-6533-443C-89FA-EF501ACBA4B4"
 		}
 	],
-"creatorBuild": "26148",
+"creatorBuild": "26268",
 "files": {
 	"\/about.html": {
 		"cB": 0,
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/about.html",
+		"oF": 0
+		},
+	"\/asesoria.html": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/asesoria.html",
 		"oF": 0
 		},
 	"\/blog-full-width.html": {
@@ -510,6 +517,26 @@
 		"ma": 0,
 		"oA": 0,
 		"oAP": "\/css\/owl.transitions-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/css\/pagination-min.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/css\/pagination-min-min.css",
+		"oF": 0,
+		"oS": 3
+		},
+	"\/css\/pagination.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/css\/pagination-min.css",
 		"oF": 0,
 		"oS": 3
 		},
@@ -2754,6 +2781,26 @@
 		"sC": 3,
 		"tS": 0
 		},
+	"\/js\/pagination-min.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/pagination-min-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
+	"\/js\/pagination.js": {
+		"ft": 64,
+		"ma": 0,
+		"mi": 1,
+		"oA": 0,
+		"oAP": "\/js\/pagination-min.js",
+		"oF": 0,
+		"sC": 3,
+		"tS": 0
+		},
 	"\/js\/plugins.js": {
 		"ft": 64,
 		"ma": 0,
@@ -2798,189 +2845,196 @@
 		"cB": 0,
 		"ft": 2048,
 		"oA": 0,
-		"oAP": "\/kit\/about.html",
+		"oAP": "\/about.html",
+		"oF": 0
+		},
+	"\/kit\/asesoria.kit": {
+		"cB": 0,
+		"ft": 2048,
+		"oA": 0,
+		"oAP": "\/asesoria.html",
 		"oF": 0
 		},
 	"\/kit\/blog-full-width.kit": {
 		"cB": 0,
 		"ft": 2048,
 		"oA": 0,
-		"oAP": "\/kit\/blog-full-width.html",
+		"oAP": "\/blog-full-width.html",
 		"oF": 0
 		},
 	"\/kit\/blog-left-sidebar.kit": {
 		"cB": 0,
 		"ft": 2048,
 		"oA": 0,
-		"oAP": "\/kit\/blog-left-sidebar.html",
+		"oAP": "\/blog-left-sidebar.html",
 		"oF": 0
 		},
 	"\/kit\/blog.kit": {
 		"cB": 0,
 		"ft": 2048,
 		"oA": 0,
-		"oAP": "\/kit\/blog.html",
+		"oAP": "\/blog.html",
 		"oF": 0
 		},
 	"\/kit\/cabecera.kit": {
 		"cB": 0,
 		"ft": 2048,
 		"oA": 1,
-		"oAP": "\/kit\/cabecera.html",
+		"oAP": "\/cabecera.html",
 		"oF": 0
 		},
 	"\/kit\/contact.kit": {
 		"cB": 0,
 		"ft": 2048,
 		"oA": 0,
-		"oAP": "\/kit\/contact.html",
+		"oAP": "\/contact.html",
 		"oF": 0
 		},
 	"\/kit\/courier_psi.kit": {
 		"cB": 0,
 		"ft": 2048,
 		"oA": 0,
-		"oAP": "\/kit\/courier_psi.html",
+		"oAP": "\/courier_psi.html",
 		"oF": 0
 		},
 	"\/kit\/courierpsi.kit": {
 		"cB": 0,
 		"ft": 2048,
 		"oA": 0,
-		"oAP": "\/kit\/courierpsi.html",
+		"oAP": "\/courierpsi.html",
 		"oF": 0
 		},
 	"\/kit\/experiencia.kit": {
 		"cB": 0,
 		"ft": 2048,
 		"oA": 0,
-		"oAP": "\/kit\/experiencia.html",
+		"oAP": "\/experiencia.html",
 		"oF": 0
 		},
 	"\/kit\/footer.kit": {
 		"cB": 0,
 		"ft": 2048,
 		"oA": 1,
-		"oAP": "\/kit\/footer.html",
+		"oAP": "\/footer.html",
 		"oF": 0
 		},
 	"\/kit\/historia.kit": {
 		"cB": 0,
 		"ft": 2048,
 		"oA": 0,
-		"oAP": "\/kit\/historia.html",
+		"oAP": "\/historia.html",
 		"oF": 0
 		},
 	"\/kit\/index.kit": {
 		"cB": 0,
 		"ft": 2048,
 		"oA": 0,
-		"oAP": "\/kit\/index.html",
+		"oAP": "\/index.html",
 		"oF": 0
 		},
 	"\/kit\/mision&vision.kit": {
 		"cB": 0,
 		"ft": 2048,
 		"oA": 0,
-		"oAP": "\/kit\/mision&vision.html",
+		"oAP": "\/mision&vision.html",
 		"oF": 0
 		},
 	"\/kit\/mision_vision.kit": {
 		"cB": 0,
 		"ft": 2048,
 		"oA": 0,
-		"oAP": "\/kit\/mision_vision.html",
+		"oAP": "\/mision_vision.html",
 		"oF": 0
 		},
 	"\/kit\/montaje.kit": {
 		"cB": 0,
 		"ft": 2048,
 		"oA": 0,
-		"oAP": "\/kit\/montaje.html",
+		"oAP": "\/montaje.html",
 		"oF": 0
 		},
 	"\/kit\/navbar.kit": {
 		"cB": 0,
 		"ft": 2048,
 		"oA": 1,
-		"oAP": "\/kit\/navbar.html",
+		"oAP": "\/navbar.html",
 		"oF": 0
 		},
 	"\/kit\/nosotros.kit": {
 		"cB": 0,
 		"ft": 2048,
 		"oA": 0,
-		"oAP": "\/kit\/nosotros.html",
+		"oAP": "\/nosotros.html",
 		"oF": 0
 		},
 	"\/kit\/overhaulin.kit": {
 		"cB": 0,
 		"ft": 2048,
 		"oA": 0,
-		"oAP": "\/kit\/overhaulin.html",
+		"oAP": "\/overhaulin.html",
 		"oF": 0
 		},
 	"\/kit\/page-full-width.kit": {
 		"cB": 0,
 		"ft": 2048,
 		"oA": 0,
-		"oAP": "\/kit\/page-full-width.html",
+		"oAP": "\/page-full-width.html",
 		"oF": 0
 		},
 	"\/kit\/page.kit": {
 		"cB": 0,
 		"ft": 2048,
 		"oA": 0,
-		"oAP": "\/kit\/page.html",
+		"oAP": "\/page.html",
 		"oF": 0
 		},
 	"\/kit\/patenteehph01.kit": {
 		"cB": 0,
 		"ft": 2048,
 		"oA": 0,
-		"oAP": "\/kit\/patenteehph01.html",
+		"oAP": "\/patenteehph01.html",
 		"oF": 0
 		},
 	"\/kit\/politicaHSEC.kit": {
 		"cB": 0,
 		"ft": 2048,
 		"oA": 0,
-		"oAP": "\/kit\/politicaHSEC.html",
+		"oAP": "\/politicaHSEC.html",
 		"oF": 0
 		},
 	"\/kit\/portafolio.kit": {
 		"cB": 0,
 		"ft": 2048,
 		"oA": 0,
-		"oAP": "\/kit\/portafolio.html",
+		"oAP": "\/portafolio.html",
 		"oF": 0
 		},
 	"\/kit\/portfolio.kit": {
 		"cB": 0,
 		"ft": 2048,
 		"oA": 0,
-		"oAP": "\/kit\/portfolio.html",
+		"oAP": "\/portfolio.html",
 		"oF": 0
 		},
 	"\/kit\/post.kit": {
 		"cB": 0,
 		"ft": 2048,
 		"oA": 0,
-		"oAP": "\/kit\/post.html",
+		"oAP": "\/post.html",
 		"oF": 0
 		},
 	"\/kit\/sensores.kit": {
 		"cB": 0,
 		"ft": 2048,
 		"oA": 0,
-		"oAP": "\/kit\/sensores.html",
+		"oAP": "\/sensores.html",
 		"oF": 0
 		},
 	"\/kit\/team.kit": {
 		"cB": 0,
 		"ft": 2048,
 		"oA": 0,
-		"oAP": "\/kit\/team.html",
+		"oAP": "\/team.html",
 		"oF": 0
 		},
 	"\/mision&vision.html": {
@@ -3002,13 +3056,6 @@
 		"ft": 8192,
 		"oA": 0,
 		"oAP": "\/montaje.html",
-		"oF": 0
-		},
-	"\/navbar.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/navbar.html",
 		"oF": 0
 		},
 	"\/nosotros.html": {
@@ -3093,13 +3140,6 @@
 		"oAP": "\/politicaHSEC.html",
 		"oF": 0
 		},
-	"\/politicas_seguridad.html": {
-		"cB": 0,
-		"ft": 8192,
-		"oA": 0,
-		"oAP": "\/politicas_seguridad.html",
-		"oF": 0
-		},
 	"\/portafolio.html": {
 		"cB": 0,
 		"ft": 8192,
@@ -3125,7 +3165,7 @@
 		"cB": 0,
 		"ft": 2048,
 		"oA": 0,
-		"oAP": "\/sass\/cabecera.html",
+		"oAP": "\/cabecera.html",
 		"oF": 0
 		},
 	"\/sass\/main.scss": {
@@ -3179,6 +3219,7 @@
 	"animateCSSInjections": 1,
 	"autoBuildNewItems": 1,
 	"autoprefixerBrowserString": "> 1%, last 2 versions, Firefox ESR, Opera 12.1",
+	"autoprefixerEnableIEGrid": 0,
 	"babelAuxiliaryCommentAfter": "",
 	"babelAuxiliaryCommentBefore": "",
 	"babelConfigFileHandlingType": 0,
@@ -3742,6 +3783,10 @@
 		"id-match": {
 			"active": 0,
 			"optionString": "'^[a-z]+([A-Z][a-z]+)*$', {'properties': false, 'onlyDeclarations': true}"
+			},
+		"implicit-arrow-linebreak": {
+			"active": 0,
+			"optionString": "'beside'"
 			},
 		"indent": {
 			"active": 0,
@@ -4999,7 +5044,7 @@
 		"autoOutputPathRelativePath": "",
 		"autoOutputPathReplace1": "kit",
 		"autoOutputPathReplace2": "html",
-		"autoOutputPathStyle": 0,
+		"autoOutputPathStyle": 1,
 		"shouldRunCacheBuster": 0
 		},
 	"languageDefaultsLESS": {
